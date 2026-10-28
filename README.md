@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RUNCTY · Ingeniería Web
 
 Sitio estático de documentación y presentación del proyecto RUNCTY, desarrollado con HTML5 y CSS.
@@ -15,3 +16,6 @@ Sitio estático de documentación y presentación del proyecto RUNCTY, desarroll
 
 El prototipo de Figma es externo; los botones llevan al enlace proporcionado para el proyecto.
 
+=======
+# css_taller
+>>>>>>> c9e9ded4879d59099a2842ed2803cbdf889a8125
