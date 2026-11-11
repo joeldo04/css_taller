@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.tarjeta {
+    width: 80%;
+    margin: 5% auto;
+    padding: 5%;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+button {
+    width: 25%;
+    padding: 2%;
+}
