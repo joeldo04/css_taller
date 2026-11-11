@@ -14,11 +14,11 @@ formulario.addEventListener('submit', function(evento) {
     mensaje.textContent = '¡Bienvenido a la clase, ' + nombre.value + '!';
 });
 
-// ===== TARJETA =====
 const tarjeta = document.getElementById('tarjeta');
 const btnAzul = document.getElementById('btnAzul');
 const btnVerde = document.getElementById('btnVerde');
 const btnRojo = document.getElementById('btnRojo');
+const btnRestablecer = document.getElementById('btnRestablecer');
 
 btnAzul.addEventListener('click', function() {
     tarjeta.style.backgroundColor = 'blue';
@@ -30,4 +30,8 @@ btnVerde.addEventListener('click', function() {
 
 btnRojo.addEventListener('click', function() {
     tarjeta.style.backgroundColor = 'red';
+});
+
+btnRestablecer.addEventListener('click', function() {
+    tarjeta.style.backgroundColor = 'white';
 });
